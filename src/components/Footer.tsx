@@ -13,7 +13,7 @@ const Footer = () => {
         src={isMobile ? logoMobile : logoWhite}
       />
       <span>
-        © 2025 RIMAC Seguros y Reaseguros.
+        © 2025 RIMAC Seguros y Reaseguros. by <a href='https://github.com/rolysarmiento' target="_blank"> Roly Sarmiento </a>
       </span>
     </div>
   )
