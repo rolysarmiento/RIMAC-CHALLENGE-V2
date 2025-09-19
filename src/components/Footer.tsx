@@ -13,7 +13,7 @@ const Footer = () => {
         src={isMobile ? logoMobile : logoWhite}
       />
       <span>
-        © 2023 RIMAC Seguros y Reaseguros.
+        © 2025 RIMAC Seguros y Reaseguros.
       </span>
     </div>
   )
