@@ -2,13 +2,7 @@
 
 Este proyecto es una aplicación web construida con React y TypeScript, utilizando una arquitectura basada en características (feature-based structure). A continuación se describe el propósito de las librerías utilizadas y la estructura del proyecto.
 
-[Visita la aplicación desplegada en Amplify](https://rystechnology.com/)
-
-Puedes poner cualquier dato en el formulario (ya tiene validaciones según el campo) y el sistema consumirá el servicio de https://rimac-front-end-challenge.netlify.app/api/user.json 
-
-Ejemplo (puede ser cualquier dato):
-
-![Ejemplo](public/example.png)
+[Visita la aplicación desplegada en Amplify](https://rimacchallengev2.netlify.app)
 
 ## 🛠️ Tecnologías y Librerías Utilizadas
 
