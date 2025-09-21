@@ -34,10 +34,10 @@ const FlexibleHealthInsurancePage = () => {
             !isMobile && <TitleDesktop />
           }
         
-          <p>
+          <h5>
             Tú eliges cuanto pagar. Ingresa tu datos, cotiza y <br/>
             recibe nuestra asesoría. 100% online.
-          </p>
+          </h5>
 
           <FormSearchUser />
 

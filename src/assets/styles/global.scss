@@ -65,16 +65,22 @@ body {
 }
 
 .container__blur--left {
+  width: 400px;   
+  height: 600px;  
+  z-index: -1; 
   left: 0;
   background-image: url('../images/FlexibleHealthInsurance/blur-asset-left.png');
   @media (max-width: 768px) {
-    bottom: -308px;
+    bottom: -908px;
   }
 }
 
 .container__blur--right {
   right: 0;
   background-image: url('../images/FlexibleHealthInsurance/blur-asset-right.png');
+  width: 400px;   
+  height: 600px;  
+  z-index: -1;
 }
 
 h1 {
